@@ -9,9 +9,9 @@ This project aims to detect fraudulent credit card transactions using a machine 
 - Contains anonymized credit card transactions labeled as fraudulent (1) or normal (0).
 
 ## How to Run
-1. Open the Google Colab notebook fraud_detection.ipynb in this repository.
+1. Open the Google Colab notebook ```fraud_detection.ipynb``` in this repository.
 
-2. Ensure the dataset file creditcard.csv is uploaded or accessible in Colab.
+2. Ensure the dataset file ```creditcard.csv``` is uploaded or accessible in Colab.
 
 3. Run the notebook cells step-by-step to execute the project.
 
