@@ -9,8 +9,10 @@ This project aims to detect fraudulent credit card transactions using a machine 
 - Contains anonymized credit card transactions labeled as fraudulent (1) or normal (0).
 
 ## How to Run
-1. Make sure you have Python installed (version 3.x recommended).  
-2. Install required libraries:
+1. Open the Google Colab notebook ```bash fraud_detection.ipynb``` in this repository.
+2. Ensure the dataset ```bash file creditcard.csv``` is uploaded or accessible in Colab.
+3. Run the notebook cells step-by-step to execute the project.
+4. Install required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
